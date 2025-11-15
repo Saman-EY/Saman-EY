@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saman Ezzatabadi</h1>
 <h3 align="center">I am Saman Ezzatabadi, a passionate Frontend developer</h3>
 
-- 🌱 I’m currently learning **Back end**
+- 🌱 I’m currently learning **Back end** (express.js - nest.js)
 
 - 👯 I’m looking to collaborate on **Any Front end project**
 
