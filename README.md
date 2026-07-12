@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saman Ezzatabadi</h1>
-<h3 align="center">I am Saman Ezzatabadi, a passionate Frontend developer</h3>
+<h3 align="center">I am Saman Ezzatabadi, a passionate FullStack developer</h3>
 
-- 🌱 I’m currently learning **Back end** (express.js - nest.js)
+- 🌱 I’m currently working on my **Back end** skills (express.js - nest.js)
 
-- 👯 I’m looking to collaborate on **Any Front end project**
+- 👯 I’m looking to collaborate on **Any Front or Back end project**
 
 - 👨‍💻 All of my projects are available at [https://saman-ezzatabadi.vercel.app](https://saman-ezzatabadi.vercel.app)
 
